@@ -6,9 +6,6 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,34 +19,50 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Install / Enable IIS in Windows WITH CGI
+- install PHP Manager for IIS
+- install VC_redist.x86.exe
+- install MySQL 5.5.62
+- install osTicket
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/434437cf-27a2-4afa-b1c5-74adfcb3aa5c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here I am Installing / Enabling IIS in Windows WITH CGI.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/ec5924ed-2308-4ac9-82d2-35e99ae50690" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here I am installing PHP Manager for IIS.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/3b5eb6b6-1555-4246-a2d6-d7a50d79c334" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here I am installing VC_redist.x86.exe.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/05401cdb-2fba-4fcb-8d5c-cdbc9182597e" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here I am installing MySQL 5.5.62.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/3f81164d-faa4-4fd2-8904-fee1788a0704" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here I am installing and configuring osTicket.
 </p>
 <br />
